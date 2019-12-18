@@ -63,3 +63,16 @@ Happy new year,
 <small>*Picture credits: Illustrations by [channarong pheangjanda](https://www.behance.net/ohm34171958). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich).*</small>
 
 <small>*Main source used for this post: [Security Planner](https://securityplanner.org/#/)</small>
+
+<h1 class="css-fnr6md e1h9rw200" id="link-6c6012fb" itemprop="headline" style="background-color: white; border: 0px; font-stretch: inherit; font-weight: 200; line-height: 3.4375rem; margin: 0px auto 16px; max-width: none; padding: 0px; position: relative; text-align: left; vertical-align: baseline; width: 660px;">
+<div style="box-sizing: border-box; margin-bottom: 16px;">
+<em style="box-sizing: border-box;"><span style="color: #999999; font-family: Helvetica Neue, Arial, Helvetica, sans-serif; font-size: x-small;">Picture credits: Illustrations by&nbsp;<a href="https://www.behance.net/ohm34171958" rel="nofollow" style="background-color: initial; box-sizing: border-box; text-decoration-line: none;" target="_blank">channarong pheangjanda</a>. Licensed under&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&amp;atype=rich" rel="nofollow" style="background-color: initial; box-sizing: border-box; text-decoration-line: none;" target="_blank">CC BY-NC-ND 4.0</a>.</span></em></div>
+<div style="box-sizing: border-box;">
+<span style="color: #999999; font-family: Helvetica Neue, Arial, Helvetica, sans-serif; font-size: x-small;">*Main source used for this post:&nbsp;<a href="https://securityplanner.org/#/" rel="nofollow" style="background-color: initial; box-sizing: border-box; text-decoration-line: none;" target="_blank">Security Planner</a></span></div>
+</h1>
+<div>
+<span class="balancedHeadline" style="border: 0px; display: inline-block; font: inherit; margin: 0px; max-width: 460.418px; padding: 0px; text-size-adjust: 100%; vertical-align: baseline;">
+<figure aria-label="media" class="sizeMedium css-1ca6zxf" role="group" style="background-color: white; border: 0px; color: #333333; font-size: 16px; font-stretch: inherit; font-variant-east-asian: inherit; font-variant-numeric: inherit; line-height: inherit; margin: 25px auto 43px; max-width: 720px; padding: 0px; text-size-adjust: 100%; vertical-align: baseline; width: calc(100% - 40px);"><div class="css-bsn42l" style="border: 0px; font: inherit; margin: 0px; padding: 0px; text-size-adjust: 100%; vertical-align: baseline;">
+</div>
+</figure></span></div>
+
