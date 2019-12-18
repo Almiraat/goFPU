@@ -12,7 +12,7 @@ But let me be honest with you. I could have fallen for this. Anyone could have f
 But I want to use this opportunity to leave you with a few good thoughts. So please, bare with me and read on.
 
 # What just happened?
-![](media/pictures/Mackerel.jpg)
+![](media/pictures/Mackerel.jpg){:target="_blank"}
 
 Most of us rarely pay attention to the spelling of the sender's email address. A closer look at the address of the fake email you received would have revealed that it is not from {freepressunlimited.org}, as it should be, but from {fr**eee**pressunlimited.org}, with a triple "e".
 
