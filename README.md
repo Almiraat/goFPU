@@ -41,6 +41,7 @@ Ultimately, it is your common sense that is the sure guard against them.
     
     <a href="https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails" target="_blank">![button](media/pictures/spotbutton.png)</a>
 
+
 - Regularly test your knowledge. Take this quiz:
 
     [![button](media/pictures/testknowledge.png)](https://phishingquiz.withgoogle.com/?hl=en)
