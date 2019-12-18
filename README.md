@@ -20,7 +20,7 @@ Most of us rarely pay attention to the spelling of the sender's email address. A
 
 That should have been your first flag. :)
 
-The second, was the link inside of the email itself. Again, a closer look at the URL would have revealed that you were about to visit, not {login.freepressunlimited.org}, our legitimate login page, but {fr**eee**pressunlimited.org/FPU-login}. 
+The second, was the link inside of the email itself. Again, a closer look at the URL would have revealed that you were about to visit a page that is not {login.freepressunlimited.org}, our legitimate login page. 
 
 The login page was obviously a fake even though it looks legitimate. It is a clone.
 
