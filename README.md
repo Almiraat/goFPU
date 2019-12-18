@@ -22,7 +22,9 @@ The second, was the link inside of the email itself. Again, a closer look at the
 
 The login page was obviously a fake even though it looks legitimate. It is a clone.
 
-I made a few clone examples for you so you can see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/){:target="_blank"}; and [here a fake Facebook login page](https://almiraat.github.io/goFPU/Facebook/){:target="_blank"}. Pay attention to the URL of each of those pages. Does it look legitimate?
+I made a few clone examples for you so you can see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https://almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
+
+<a href="https://almiraat.github.io/goFPU/Gmail.login/" target="_blank">Fake Gmail</a>
 
 Be advised also that those phishing messages don't always take the form of emails. They [can be sent to your phone email app](https://www.nytimes.com/2017/09/14/technology/personaltech/spotting-the-phish-in-a-sea-of-email.html), sent via SMS text messages, WhatsApp or Signal messages, or any other communication means. 
 
