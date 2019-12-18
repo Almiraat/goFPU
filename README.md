@@ -28,7 +28,7 @@ Be advised also that those phishing messages don't always take the form of email
 
 Ultimately, it is your common sense that is the sure guard against them.
 
-# So, what to do?
+# So, what to do?*
 ![](media/pictures/standng_shark.jpg)
 
 ### Learn to spot suspicious emails
