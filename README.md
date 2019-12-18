@@ -24,7 +24,7 @@ The login page was obviously a fake even though it looks legitimate. It is a clo
 
 I made a few clone examples for you so you can see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https://almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
 
-Be advised also that those phishing messages don't always take the form of emails. They can be sent via SMS text messages, WhatsApp or Signal messages, or any other communication means. 
+Be advised also that those phishing messages don't always take the form of emails. They [can be sent to your phone email app](https://www.nytimes.com/2017/09/14/technology/personaltech/spotting-the-phish-in-a-sea-of-email.html), sent via SMS text messages, WhatsApp or Signal messages, or any other communication means. 
 
 Ultimately, it is your common sense that is the sure guard against them.
 
