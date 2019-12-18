@@ -60,14 +60,17 @@ If you are still unsure, feel free to ask for help from myself or Greenhost. You
 
 ![](media/pictures/totem.png)
 
-- Enroll in the Phishing Attacks course - available in [English](https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_001+course/about) or [French](https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_FR001+cours/about) course.
-- Further courses are also available. Check them out [here](https://totem-project.org/).
+- Enroll in the Phishing Attacks course - available in <a href="https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_001+course/about" target="_blank">English</a> and <a href="https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_FR001+cours/about" target="_blank">French</a>.
+- Further courses are also available. Check them out at <a href="https://totem-project.org/" target="_blank">totem-project.org</a>.
 
 Good luck and watch out for phishes these holidays :)
 
 Happy new year,
 
 -Hisham
+
+
+
 
 -----------------------
 <small>*Picture credits: Illustrations by <a href="https://www.behance.net/ohm34171958" target="_blank">channarong pheangjanda</a>. Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich" target="_blank">CC BY-NC-ND 4.0</a>.*</small>
