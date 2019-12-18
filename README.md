@@ -29,7 +29,12 @@ I made a few examples clones so you see for yourselves: [here, a fake Gmail logi
 
 ### Learn to spot suspicious emails
 - Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
+
 [![button](media/pictures/spotbutton.png)](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails)
+
+- Regularly test your knowledge. Take this quiz:
+
+[![button](media/pictures/testknowledge.png)](https://phishingquiz.withgoogle.com/?hl=en)
 
 ### Check a website's name
 Look to the right end of the website URL for the name before .com or other ending (like .nl). Is it the site you want to go to?
