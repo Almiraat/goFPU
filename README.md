@@ -5,11 +5,11 @@ Hey there,
 
 It's Hisham from FPU :)
 
-That email you just received? Well, it was a fake (Sorry, no rewards... and no secret lottery this year). And that FPU Login page you just clicked through? Well, yes, it was also a fake. The good news is, I am the one sitting on this side of the screen. It could have someone else. Easily.
+That email you just received? Well, it was a fake (Sorry, no rewards... and no secret lottery this year). And that FPU Login page you just clicked through? Well, yes, it was also a fake. The good news is, I am the one sitting on this side of the screen. It could have been someone else. Easily.
 
-But I'll be honest with you here. I could have fallen for this. Anyone could have fallen for this. So don't feel guilty. And, anyway, no one is going to be named or shamed :)
+But let me be honest with you. I could have fallen for this. Anyone could have fallen for this. So don't feel guilty. And, anyway, no one is going to be named or shamed :)
 
-But I do want to use this opportunity to leave you with a few good advice. So please, bare with me and read on.
+But I do want to use this opportunity to leave you with a few good thoughts. So please, bare with me and read on.
 
 # What just happened?
 ![](media/pictures/Mackerel.jpg)
@@ -22,9 +22,11 @@ The second, was the link inside of the email itself. Again, a closer look at the
 
 The login page was obviously a fake even though it looks legitimate. It is a clone.
 
-I made a few examples clones so you see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https:/https://mattermost.com/almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
+I made a few clone examples for you so you can see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https://almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
 
-Be advised also that those phishing messages don't always take the form of emails. They can be sent via SMS text message, WhatsApp, Signal or any other communication means. Your common sense is the only sure guard against them.
+Be advised also that those phishing messages don't always take the form of emails. They can be sent via SMS text messages, WhatsApp or Signal messages, or any other communication means. 
+
+Ultimately, it is your common sense that is the sure guard against them.
 
 # So, what to do?
 ![](media/pictures/standng_shark.jpg)
