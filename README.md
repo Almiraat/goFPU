@@ -1,3 +1,4 @@
-# You've got phished! :)
+# You've got phished!
 ![](media/pictures/Char.jpg)
-## That was a fake FPU login page. But no worries. All is fine.
+## No worries, this is just an exercise.
+That was a fake FPU Login page you clicked through.
