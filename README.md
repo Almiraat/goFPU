@@ -7,7 +7,7 @@ It's Hisham from FPU :)
 
 That email you just received? Well, it was a fake (Sorry, no rewards... and no secret lottery this year). And that FPU Login page you just clicked through? Well, yes, it was also a fake. The good news is, it's only me who's sitting on this side of the screen. A friend, in other words. It could have been someone else.... much, much "badder" :)
 
-But let me be honest with you. I could have fallen for this. Anyone could have fallen for this. So don't feel guilty. And, anyway, no one is going to be named or shamed :)
+But let's be honest. I could have fallen for this. Anyone could have fallen for this. So don't feel guilty. And, no one is going to be named or shamed :)
 
 Your credentials have not been compromised. So, no reason to worry and no need to change your password.
 
