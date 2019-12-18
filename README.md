@@ -36,15 +36,12 @@ Ultimately, it is your common sense that is the sure guard against them.
 
 ### Learn to spot suspicious emails
 - Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
-
-    [![button](media/pictures/spotbutton.png)](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails)
     
     <a href="https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails" target="_blank">![button](media/pictures/spotbutton.png)</a>
 
-
 - Regularly test your knowledge. Take this quiz:
-
-    [![button](media/pictures/testknowledge.png)](https://phishingquiz.withgoogle.com/?hl=en)
+    
+    <a href="https://phishingquiz.withgoogle.com/?hl=en" target="_blank">![button](media/pictures/testknowledge.png)</a>
 
 ### Check a website's name
 Look to the right end of the website URL for the name before .com or other ending (like .nl). Is it the site you want to go to?
@@ -55,7 +52,7 @@ Any website that asks for your information should have HTTPS, but know that HTTP
 
 ### In doubt, seek help
 
-If you are still unsure, feel free to ask for help from myself or Greenhost. You can also check a suspicious website yourself with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
+If you are still unsure, feel free to ask for help from myself or Greenhost. You can also check a suspicious website yourself with the online scanning engine <a href="https://www.virustotal.com/gui/home/url" target="_blank">VirusTotal</a>.
 
 Good luck and watch out for phishes these holidays :)
 
@@ -64,6 +61,6 @@ Happy new year,
 -Hisham
 
 -----------------------
-<small>*Picture credits: Illustrations by [channarong pheangjanda](https://www.behance.net/ohm34171958). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich).*</small>
+<small>*Picture credits: Illustrations by <a href="https://www.behance.net/ohm34171958" target="_blank">channarong pheangjanda</a>. Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich" target="_blank">CC BY-NC-ND 4.0</a>.*</small>
 
-<small>*Main source used for this post: [Security Planner](https://securityplanner.org/#/)</small>
+<small>*Main source used for this post: <a href="https://securityplanner.org/#/" target="_blank">Security Planner</a></small>
