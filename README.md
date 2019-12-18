@@ -1,6 +1,6 @@
 # That was a phish!
 ![](media/pictures/Char.jpg)
-## But no worries, this is just an exercise.
+
 Hey there,
 
 It's Hisham from FPU :)
