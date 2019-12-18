@@ -24,7 +24,9 @@ The login page was obviously a fake even though it looks legitimate. It is a clo
 
 I made a few examples clones so you see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https:/https://mattermost.com/almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
 
-# What advice
+Be advised also that those phishing messages don't always take the form of emails. They can be sent via SMS text message, WhatsApp, Signal or any other communication means. Your common sense is the only sure guard against them.
+
+# So, what to do?
 ![](media/pictures/standng_shark.jpg)
 
 ### Learn to spot suspicious emails
@@ -47,7 +49,7 @@ Any website that asks for your information should have HTTPS, but know that HTTP
 
 If you are still unsure, feel free to ask for help from myself, Greenhost. You can also check a suspicious website with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
 
-Good luck. Watch out for phishes :)
+Good luck and watch out for phishes during the holidays :)
 
 Happy new year,
 
