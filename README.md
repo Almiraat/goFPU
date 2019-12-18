@@ -28,7 +28,7 @@ I made a few examples clones so you see for yourselves: [here, a fake Gmail logi
 ![](media/pictures/standng_shark.jpg)
 
 ### Learn to spot suspicious emails
-Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
+- Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
 [![button](media/pictures/spotbutton.png)](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails)
 
 ### Check a website's name
@@ -38,7 +38,7 @@ Look to the right end of the website URL for the name before .com or other endin
 
 Any website that asks for your information should have HTTPS, but know that HTTPS alone does not make a website genuine.
 
-### In doubt, ask for help
+### In doubt, seek help
 
 If you are still unsure, feel free to ask for help from myself, Greenhost. You can also check a suspicious website with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
 
