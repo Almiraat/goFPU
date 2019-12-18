@@ -22,11 +22,12 @@ The second, was the link inside of the email itself. Again, a closer look at the
 
 The login page was obviously a fake even though it looks legitimate. It is a clone.
 
-I made a few clone examples for you so you can see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https://almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
+I made a few clone examples for you so you can see for yourselves: <a href="https://almiraat.github.io/goFPU/Gmail.login/" target="_blank">here, a fake Gmail login page</a>; and <a href="https://almiraat.github.io/goFPU/Facebook/" target="_blank">here a fake Facebook login page</a>. 
 
-<a href="https://almiraat.github.io/goFPU/Gmail.login/" target="_blank">Fake Gmail</a>
+Take a look at the URL of each of those pages. Does it look legitimate?
 
-Be advised also that those phishing messages don't always take the form of emails. They [can be sent to your phone email app](https://www.nytimes.com/2017/09/14/technology/personaltech/spotting-the-phish-in-a-sea-of-email.html), sent via SMS text messages, WhatsApp or Signal messages, or any other communication means. 
+
+Be advised also that those phishing messages don't always take the form of emails. They <a href="https://www.nytimes.com/2017/09/14/technology/personaltech/spotting-the-phish-in-a-sea-of-email.html" target="_blank">can be sent to your phone email app</a>, sent via SMS text messages, WhatsApp or Signal messages, or any other communication means. 
 
 Ultimately, it is your common sense that is the sure guard against them.
 
@@ -37,6 +38,8 @@ Ultimately, it is your common sense that is the sure guard against them.
 - Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
 
     [![button](media/pictures/spotbutton.png)](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails)
+    
+    <a href="https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails" target="_blank">![button](media/pictures/spotbutton.png)</a>
 
 - Regularly test your knowledge. Take this quiz:
 
@@ -61,4 +64,5 @@ Happy new year,
 
 -----------------------
 <small>*Picture credits: Illustrations by [channarong pheangjanda](https://www.behance.net/ohm34171958). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich).*</small>
+
 <small>*Main source used for this post: [Security Planner](https://securityplanner.org/#/)</small>
