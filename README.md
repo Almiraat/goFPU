@@ -25,5 +25,6 @@ The login page was obviously a fake even though it looks legitimate. It is a clo
 I made a few examples clones so you see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https://almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
 
 # What advice
+![](media/pictures/standng_shark.jpg)
 
 xx
