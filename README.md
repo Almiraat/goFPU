@@ -27,7 +27,11 @@ I made a few examples clones so you see for yourselves: [here, a fake Gmail logi
 # What advice
 ![](media/pictures/standng_shark.jpg)
 
-### Check the website name
+### Learn to spot suspicious emails
+Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
+[![button](media/pictures/spotbutton.png)](https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails)
+
+### Check a website's name
 Look to the right end of the website URL for the name before .com or other ending (like .nl). Is it the site you want to go to?
 
 ### Then check for the letter "S" in "HTTPS” or look for a green ‘padlock’ icon in your URL bar
