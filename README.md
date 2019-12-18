@@ -74,6 +74,6 @@ Happy new year,
 
 -----------------------
 
-    <small>*Picture credits: Illustrations by <a href="https://www.behance.net/ohm34171958" target="_blank">channarong pheangjanda</a>. Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich" target="_blank">CC BY-NC-ND 4.0</a>.*</small>
+   <small>*Picture credits: Illustrations by <a href="https://www.behance.net/ohm34171958" target="_blank">channarong pheangjanda</a>. Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich" target="_blank">CC BY-NC-ND 4.0</a>.*</small>
 
-     <small>*Main source used for this post: <a href="https://securityplanner.org/#/" target="_blank">Security Planner</a></small>
+   <small>*Main source used for this post: <a href="https://securityplanner.org/#/" target="_blank">Security Planner</a></small>
