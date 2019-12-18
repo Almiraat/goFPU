@@ -22,7 +22,7 @@ The second, was the link inside of the email itself. Again, a closer look at the
 
 The login page was obviously a fake even though it looks legitimate. It is a clone.
 
-I made a few examples clones so you see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https://almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
+I made a few examples clones so you see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https:/https://mattermost.com/almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
 
 # What advice
 ![](media/pictures/standng_shark.jpg)
@@ -42,3 +42,8 @@ Any website that asks for your information should have HTTPS, but know that HTTP
 
 If you are still unsure, feel free to ask for help from myself, Greenhost. You can also check a suspicious website with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
 
+Good luck. Watch out for phishes :)
+
+Happy new year,
+
+-Hisham
