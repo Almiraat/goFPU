@@ -36,7 +36,7 @@ Ultimately, it is your common sense that is the sure guard against them.
 # So, what to do?*
 ![](media/pictures/exo.jpg)
 
-### Totem course
+### Take a Totem course
 
 ![](media/pictures/totem.png)
 
