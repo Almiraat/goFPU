@@ -49,10 +49,15 @@ Any website that asks for your information should have HTTPS, but know that HTTP
 
 ### In doubt, seek help
 
-If you are still unsure, feel free to ask for help from myself, Greenhost. You can also check a suspicious website with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
+If you are still unsure, feel free to ask for help from myself or Greenhost. You can also check a suspicious website yourself with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
 
-Good luck and watch out for phishes during the holidays :)
+Good luck and watch out for phishes these holidays :)
 
 Happy new year,
 
 -Hisham
+
+-----------------------
+*Picture credits: Illustrations by [channarong pheangjanda](https://www.behance.net/ohm34171958). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich).*
+
+*Main source used for this post: [Security Planner](https://securityplanner.org/#/)
