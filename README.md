@@ -29,3 +29,12 @@ I made a few examples clones so you see for yourselves: [here, a fake Gmail logi
 
 ### Check the website name
 Look to the right end of the website URL for the name before .com or other ending (like .nl). Is it the site you want to go to?
+
+### Then check for the letter "S" in "HTTPS” or look for a green ‘padlock’ icon in your URL bar
+
+Any website that asks for your information should have HTTPS, but know that HTTPS alone does not make a website genuine.
+
+### In doubt, ask for help
+
+If you are still unsure, feel free to ask for help from myself, Greenhost. You can also check a suspicious website with the online scanning engine [VirusTotal](https://www.virustotal.com/gui/home/url).
+
