@@ -36,13 +36,6 @@ Ultimately, it is your common sense that is the sure guard against them.
 # So, what to do?*
 ![](media/pictures/exo.jpg)
 
-### Take a Totem course
-
-![](media/pictures/totem.png)
-
-- Phishing Attacks - Enroll in [English](https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_001+course/about) or [French](https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_FR001+cours/about) course.
-- Further courses available [here](https://totem-project.org/).
-
 ### Learn to spot suspicious emails
 - Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
     
@@ -62,6 +55,13 @@ Any website that asks for your information should have HTTPS, but know that HTTP
 ### In doubt, seek help
 
 If you are still unsure, feel free to ask for help from myself or Greenhost. You can also check a suspicious website yourself with the online scanning engine <a href="https://www.virustotal.com/gui/home/url" target="_blank">VirusTotal</a>.
+
+### Take a Totem course
+
+![](media/pictures/totem.png)
+
+- Enroll in the Phishing Attacks course - available in [English](https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_001+course/about) or [French](https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_FR001+cours/about) course.
+- Further courses are also available. Check them out [here](https://totem-project.org/).
 
 Good luck and watch out for phishes these holidays :)
 
