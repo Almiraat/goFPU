@@ -12,5 +12,7 @@ But I'll be honest with you here. I could have fallen for this. Anyone could hav
 But I do want to use this opportunity to leave you with a few good advice. So please, bare with me and read on.
 
 # What just happened?
+![](media/pictures/Mackerel.jpg)
+
 
 
