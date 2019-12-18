@@ -60,6 +60,6 @@ Happy new year,
 -Hisham
 
 -----------------------
-*Picture credits: Illustrations by [channarong pheangjanda](https://www.behance.net/ohm34171958). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich).*
+<small>*Picture credits: Illustrations by [channarong pheangjanda](https://www.behance.net/ohm34171958). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=ccsearch&atype=rich).*</small>
 
-*Main source used for this post: [Security Planner](https://securityplanner.org/#/)
+<small>*Main source used for this post: [Security Planner](https://securityplanner.org/#/)</small>
