@@ -14,8 +14,16 @@ But I do want to use this opportunity to leave you with a few good advice. So pl
 # What just happened?
 ![](media/pictures/Mackerel.jpg)
 
-Most of us rarely pay attention to the spelling of the sender's email address. A closer look at the address of the fake email you received will reveal that it is not from freepressunlimited.org, as it should, but from fr**eee**pressunlimited.org, with a triple "e".
+Most of us rarely pay attention to the spelling of the sender's email address. A closer look at the address of the fake email you received would have revealed that it is not from {freepressunlimited.org}, as it should be, but from {fr**eee**pressunlimited.org}, with a triple "e".
 
 That should have been your first flag. :)
 
-The second was the link inside of the email. A closer look at the URL will reveal that you are visiting, not {login.freepressunlimited.org}, our legitimate login page, but {freeepressunlimited.org/fpu-login}. 
+The second, was the link inside of the email itself. Again, a closer look at the URL would have revealed that you were about to visit, not {login.freepressunlimited.org}, our legitimate login page, but {fr**eee**pressunlimited.org/FPU-login}. 
+
+The login page was obviously a fake even though it looks legitimate. It is a clone.
+
+I made a few examples clones so you see for yourselves: [here, a fake Gmail login page](https://almiraat.github.io/goFPU/Gmail.login/); and [here a fake Facebook login page](https://almiraat.github.io/goFPU/Facebook/). Pay attention to the URL of each of those pages. Does it look legitimate?
+
+# What advice
+
+xx
