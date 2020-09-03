@@ -1,5 +1,5 @@
 # This is not a phish!
-![](media/pictures/Char.jpg)
+## PHOTO
 
 Hey there,
 
@@ -14,7 +14,7 @@ Your credentials have not been compromised. So, no reason to worry and no need t
 I want, however, to use this opportunity to leave you with a few good thoughts. So please read on for a few more seconds.
 
 # What just happened?
-![](media/pictures/Mackerel.jpg)
+## PHOTO
 
 Most of us rarely pay attention to the spelling of the sender's email address. A closer look at the address of the fake email you received would have revealed that it is not from {freepressunlimited.org}, as it should be, but from {fr**eee**pressunlimited.org}, with a triple "e".
 
@@ -34,7 +34,7 @@ Be advised also that those phishing messages don't always take the form of email
 Ultimately, it is your common sense that is the sure guard against them.
 
 # So, what to do?*
-![](media/pictures/exo.jpg)
+## PHOTO
 
 ### Learn to spot suspicious emails
 - Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
@@ -58,7 +58,7 @@ If you are still unsure, feel free to ask for help from myself or Greenhost. You
 
 ### Take a Totem course
 
-![](media/pictures/totem.png)
+## logo totem
 
 - Enroll in the Phishing Attacks course - available in <a href="https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_001+course/about" target="_blank">English</a> and <a href="https://learn.totem-project.org/courses/course-v1:Totem+TP_PM_FR001+cours/about" target="_blank">French</a>.
 - Further courses are also available. Check them out at <a href="https://totem-project.org/" target="_blank">totem-project.org</a>.
