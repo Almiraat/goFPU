@@ -38,12 +38,12 @@ Ultimately, it is your common sense that is the sure guard against them.
 
 ### Learn to spot suspicious emails
 - Learn a few simple practices and common tactics used to trick people into clicking on malicious links and attachments.
-    
-    <a href="https://www.johnscottrailton.com/jsrs-digital-security-low-hanging-fruit/#safer-emails" target="_blank">![button](media/pictures/spotbutton.png)</a>
+
+## BUTTON
 
 - Regularly test your knowledge. Take this quiz:
     
-    <a href="https://phishingquiz.withgoogle.com/?hl=en" target="_blank">![button](media/pictures/testknowledge.png)</a>
+## BUTTON
 
 ### Check a website's name
 Look to the right end of the website URL for the name before .com or other ending (like .nl). Is it the site you want to go to?
